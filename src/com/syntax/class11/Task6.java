@@ -11,7 +11,7 @@ public class Task6 {
 			//if a number is greater than 2 divide that number with all the numbers
 			//and check if you get a remainder other than 0 if yes the number is
 			//not prime
-		int number=-5;
+		int number=5;
 		boolean isPrime=true;
 		
 		if (number>1) {
